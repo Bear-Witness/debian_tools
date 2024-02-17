@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# install tldr
+sudo apt-get install -y tldr
+
 # install curl
 sudo apt-get install -y curl
 
