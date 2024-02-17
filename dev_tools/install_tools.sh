@@ -17,6 +17,8 @@ sudo apt-get install -y make
 
 # install pyenv
 curl https://pyenv.run | bash
+## should add the pyenv stuff automatically here
+
 
 echo "Update .bashrc as per pyenv reqs"
-
+exit 0
