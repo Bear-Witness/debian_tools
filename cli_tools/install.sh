@@ -4,6 +4,7 @@
 sudo apt-get install curl
 
 
-echo -e '\n\n# mcd command line tool. Creates and moves to directory\n' >> ~/.bashrc
-cat mcd >> ~/.bashrc
+# cats all custom functions and adds it to bashrc.
+# a check for duplicated stuff would be nice
+cat ~/.bahsrc mcd > ~/.bashrc
 
